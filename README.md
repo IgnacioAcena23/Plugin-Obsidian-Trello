@@ -1,1 +1,1 @@
-# Plugin-Obsidian-
+# Plugin-Obsidian

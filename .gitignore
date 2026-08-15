@@ -1,0 +1,30 @@
+node_modules/
+
+# Archivos de entorno y logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.env
+.env.local
+
+# Editores y IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Archivos del SO
+.DS_Store
+Thumbs.db
+
+# Si pruebas el plugin en una bóveda (vault) de Obsidian de prueba dentro de esta carpeta
+.obsidian/
+
+# Nota: main.js es el archivo compilado. 
+# En muchos plugins de Obsidian, main.js SÍ se sube al repositorio para facilitar la instalación manual.
+# Si prefieres generar los releases con GitHub Actions, descomenta la siguiente línea:
+# main.js

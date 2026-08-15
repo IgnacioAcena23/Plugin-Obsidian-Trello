@@ -1,0 +1,9 @@
+{
+  "id": "mi-trello-plugin",
+  "name": "Mi Trello Plugin",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Integración con Trello usando pnpm y esbuild.",
+  "author": "Tu Nombre",
+  "isDesktopOnly": false
+}
